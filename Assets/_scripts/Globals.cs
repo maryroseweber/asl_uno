@@ -37,3 +37,11 @@ public enum unomatchtype
     matchWord = 4,
 
 }
+
+public enum unocardlocation
+{
+    drawDeck = 0,
+    discardDeck = 1,
+    playerHand = 2
+}
+
